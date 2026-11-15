@@ -1,0 +1,751 @@
+employee_id,name,department,designation,casual_leave,sick_leave,earned_leave
+E101,Aarav A. Sharma,Engineering,Software Engineer,12,10,15
+E102,Ayaan B. Das,Customer Support,Customer Experience Analyst,11,9,14
+E103,Myra C. Bansal,Administration,Executive Assistant,10,8,13
+E104,Atharv D. Shetty,Quality Assurance,Test Lead,9,7,12
+E105,Kunal E. Qureshi,Sales,Sales Executive,8,6,11
+E106,Tara F. Singh,Product,Product Manager,7,5,10
+E107,Shaurya G. Agarwal,Data & Analytics,Analytics Manager,6,4,9
+E108,Aryan H. Ghosh,Marketing,Content Strategist,5,3,8
+E109,Ishani I. Thomas,IT & Security,Network Administrator,4,2,7
+E110,Gaurav J. Tiwari,Data & Analytics,Analytics Manager,3,1,6
+E111,Prisha K. Mishra,Marketing,Brand Associate,2,0,5
+E112,Neha L. Choudhary,IT & Security,Database Administrator,1,10,4
+E113,Amitabh M. Pillai,Design,Visual Designer,0,9,3
+E114,Tanvi N. Sen,Finance,Finance Manager,12,8,2
+E115,Anushka O. Mehta,Legal & Compliance,Contract Specialist,11,7,1
+E116,Reyansh P. Jain,Procurement,Purchasing Analyst,10,6,0
+E117,Saanvi Q. Desai,Human Resources,Talent Acquisition Specialist,9,5,15
+E118,Kabir R. Thomas,Operations,Operations Manager,8,4,14
+E119,Rohan S. Tiwari,Procurement,Vendor Manager,7,3,13
+E120,Meera T. Mishra,Human Resources,Payroll Executive,6,2,12
+E121,Manav U. Choudhary,Operations,Process Analyst,5,1,11
+E122,Nakul V. Pillai,Research & Development,Research Scientist,4,0,10
+E123,Fatima W. Sen,Engineering,Python Developer,3,10,9
+E124,Nikhil X. Mehta,Customer Support,Technical Support Specialist,2,9,8
+E125,Deepak Y. Jain,Administration,Office Administrator,1,8,7
+E126,Ritika Z. Desai,Quality Assurance,Quality Manager,0,7,6
+E127,Amitabh A. Dutta,Sales,Sales Representative,12,6,5
+E128,Sakshi B. Sethi,Administration,Facilities Manager,11,5,4
+E129,Keshav C. Kapoor,Quality Assurance,Quality Manager,10,4,3
+E130,Sai D. Malhotra,Sales,Business Development Associate,9,3,2
+E131,Aadhya E. Roy,Product,Business Analyst,8,2,1
+E132,Kiara F. Mukherjee,Data & Analytics,BI Developer,7,1,0
+E133,Parth G. Gupta,Marketing,Social Media Manager,6,0,15
+E134,Anika H. Kumar,IT & Security,Network Administrator,5,10,14
+E135,Dev I. Desai,Design,UX Designer,4,9,13
+E136,Lakshya J. Dutta,Finance,Finance Manager,3,8,12
+E137,Simran K. Sethi,IT & Security,IT Manager,2,7,11
+E138,Kartik L. Kapoor,Design,UX Designer,1,6,10
+E139,Raghav M. Malhotra,Finance,Accountant,0,5,9
+E140,Ritika N. Roy,Legal & Compliance,Contract Specialist,12,4,8
+E141,Varun O. Mukherjee,Procurement,Procurement Executive,11,3,7
+E142,Nandini P. Gupta,Human Resources,HR Business Partner,10,2,6
+E143,Lavanya Q. Kumar,Operations,Operations Executive,9,1,5
+E144,Arjun R. Thakur,Research & Development,Research Associate,8,0,4
+E145,Diya S. Gill,Engineering,DevOps Engineer,7,10,3
+E146,Avni T. Bhat,Operations,Supply Chain Associate,6,9,2
+E147,Yash U. Joshi,Research & Development,Lab Coordinator,5,8,1
+E148,Navya V. Bose,Engineering,DevOps Engineer,4,7,0
+E149,Aanya W. Khan,Customer Support,Support Executive,3,6,15
+E150,Samar X. Kaur,Administration,Facilities Manager,2,5,14
+E151,Tanya Y. Verma,Quality Assurance,Automation Engineer,1,4,13
+E152,Om Z. Kumar,Sales,Regional Sales Executive,0,3,12
+E153,Raghav A. Thakur,Product,Product Designer,12,2,11
+E154,Suhani B. Gill,Data & Analytics,Data Engineer,11,1,10
+E155,Suresh C. Bhat,Sales,Business Development Associate,10,0,9
+E156,Vikram D. Joshi,Product,Business Analyst,9,10,8
+E157,Akhil E. Bose,Data & Analytics,Data Engineer,8,9,7
+E158,Vihaan F. Khan,Marketing,SEO Specialist,7,8,6
+E159,Ananya G. Kaur,IT & Security,Cybersecurity Analyst,6,7,5
+E160,Riya H. Verma,Design,UI Designer,5,6,4
+E161,Vedant I. Rao,Finance,Auditor,4,5,3
+E162,Ishita J. Saxena,Legal & Compliance,Compliance Manager,3,4,2
+E163,Shanaya K. Paul,Procurement,Procurement Manager,2,3,1
+E164,Abhinav L. Anand,Finance,Accounts Executive,1,2,0
+E165,Zoya M. Nair,Legal & Compliance,Risk Analyst,0,1,15
+E166,Om N. Sinha,Procurement,Procurement Manager,12,0,14
+E167,Mohit O. Pandey,Human Resources,Learning Coordinator,11,10,13
+E168,Shreya P. Ali,Operations,Operations Executive,10,9,12
+E169,Rahul Q. Verma,Research & Development,Research Analyst,9,8,11
+E170,Anmol R. Rao,Engineering,Software Engineer,8,7,10
+E171,Esha S. Saxena,Customer Support,Support Executive,7,6,9
+E172,Aditya T. Paul,Administration,Reception Executive,6,5,8
+E173,Ishaan U. Anand,Engineering,Backend Developer,5,4,7
+E174,Ira V. Nair,Customer Support,Support Team Lead,4,3,6
+E175,Rudra W. Sinha,Administration,Admin Coordinator,3,2,5
+E176,Sara X. Pandey,Quality Assurance,QA Analyst,2,1,4
+E177,Nisha Y. Ali,Sales,Regional Sales Executive,1,0,3
+E178,Ritvik Z. Patel,Product,UX Researcher,0,10,2
+E179,Zoya A. Iyer,Data & Analytics,Data Analyst,12,9,1
+E180,Sana B. Kulkarni,Marketing,Brand Associate,11,8,0
+E181,Chirag C. Arora,IT & Security,IT Manager,10,7,15
+E182,Kavya D. Chawla,Data & Analytics,Data Scientist,9,6,14
+E183,Neil E. Reddy,Marketing,Campaign Manager,8,5,13
+E184,Ramesh F. Menon,IT & Security,Cybersecurity Analyst,7,4,12
+E185,Madhav G. Yadav,Design,Design Lead,6,3,11
+E186,Vivaan H. Ali,Finance,Financial Analyst,5,2,10
+E187,Krishna I. Patel,Legal & Compliance,Legal Associate,4,1,9
+E188,Pari J. Iyer,Procurement,Sourcing Specialist,3,0,8
+E189,Dhruv K. Kulkarni,Human Resources,Payroll Executive,2,10,7
+E190,Harsh L. Arora,Operations,Supply Chain Associate,1,9,6
+E191,Pihu M. Chawla,Procurement,Purchasing Analyst,0,8,5
+E192,Ritvik N. Reddy,Human Resources,HR Manager,12,7,4
+E193,Aisha O. Menon,Operations,Logistics Coordinator,11,6,3
+E194,Aarohi P. Yadav,Research & Development,ML Engineer,10,5,2
+E195,Akash Q. Fernandes,Engineering,Systems Engineer,9,4,1
+E196,Aditi R. Sharma,Customer Support,Customer Experience Analyst,8,3,0
+E197,Bhavna S. Das,Administration,Executive Assistant,7,2,15
+E198,Pratik T. Bansal,Quality Assurance,Test Lead,6,1,14
+E199,Roshni U. Shetty,Sales,Key Account Manager,5,0,13
+E200,Aarav V. Qureshi,Administration,Executive Assistant,4,10,12
+E201,Ayaan W. Singh,Quality Assurance,Test Lead,3,9,11
+E202,Myra X. Agarwal,Sales,Account Executive,2,8,10
+E203,Atharv Y. Yadav,Product,UX Researcher,1,7,9
+E204,Kunal Z. Fernandes,Data & Analytics,Analytics Manager,0,6,8
+E205,Pihu A. Sharma,Marketing,SEO Specialist,12,5,7
+E206,Pranav B. Das,IT & Security,IT Support Engineer,11,4,6
+E207,Mira C. Bansal,Design,Motion Designer,10,3,5
+E208,Rhea D. Shetty,Finance,Accountant,9,2,4
+E209,Siddharth E. Qureshi,IT & Security,Cloud Administrator,8,1,3
+E210,Mahima F. Singh,Design,Visual Designer,7,0,2
+E211,Pallavi G. Agarwal,Finance,Accounts Executive,6,10,1
+E212,Jayant H. Ghosh,Legal & Compliance,Legal Associate,5,9,0
+E213,Tanvi I. Thomas,Procurement,Purchasing Analyst,4,8,15
+E214,Anushka J. Tiwari,Human Resources,Recruiter,3,7,14
+E215,Reyansh K. Mishra,Operations,Facility Coordinator,2,6,13
+E216,Saanvi L. Choudhary,Research & Development,Research Scientist,1,5,12
+E217,Kabir M. Pillai,Engineering,QA Engineer,0,4,11
+E218,Kunal N. Sen,Operations,Logistics Coordinator,12,3,10
+E219,Tara O. Mehta,Research & Development,Research Associate,11,2,9
+E220,Shaurya P. Agarwal,Engineering,Data Analyst,10,1,8
+E221,Aryan Q. Ghosh,Customer Support,Technical Support Specialist,9,0,7
+E222,Ishani R. Thomas,Administration,Office Administrator,8,10,6
+E223,Gaurav S. Tiwari,Quality Assurance,Quality Manager,7,9,5
+E224,Prisha T. Mishra,Sales,Key Account Manager,6,8,4
+E225,Neha U. Choudhary,Product,UI Designer,5,7,3
+E226,Amitabh V. Pillai,Data & Analytics,BI Developer,4,6,2
+E227,Sakshi W. Sen,Sales,Sales Executive,3,5,1
+E228,Keshav X. Mehta,Product,Product Manager,2,4,0
+E229,Sai Y. Jain,Data & Analytics,BI Developer,1,3,15
+E230,Aadhya Z. Desai,Marketing,Graphic Designer,0,2,14
+E231,Kabir A. Dutta,IT & Security,IT Support Engineer,12,1,13
+E232,Rohan B. Sethi,Design,UX Designer,11,0,12
+E233,Meera C. Kapoor,Finance,Financial Analyst,10,10,11
+E234,Manav D. Malhotra,Legal & Compliance,Legal Executive,9,9,10
+E235,Nakul E. Roy,Procurement,Vendor Manager,8,8,9
+E236,Fatima F. Mukherjee,Finance,Budget Analyst,7,7,8
+E237,Nikhil G. Mehta,Legal & Compliance,Compliance Analyst,6,6,7
+E238,Deepak H. Jain,Procurement,Procurement Executive,5,5,6
+E239,Ritika I. Desai,Human Resources,HR Manager,4,4,5
+E240,Varun J. Dutta,Operations,Facility Coordinator,3,3,4
+E241,Nandini K. Sethi,Research & Development,Research Associate,2,2,3
+E242,Lavanya L. Kapoor,Engineering,Frontend Developer,1,1,2
+E243,Arjun M. Malhotra,Customer Support,Customer Success Associate,0,0,1
+E244,Aadhya N. Roy,Administration,Facilities Manager,12,10,0
+E245,Kiara O. Mukherjee,Engineering,Frontend Developer,11,9,15
+E246,Parth P. Gupta,Customer Support,Support Executive,10,8,14
+E247,Anika Q. Kumar,Administration,Reception Executive,9,7,13
+E248,Dev R. Thakur,Quality Assurance,Automation Engineer,8,6,12
+E249,Lakshya S. Gill,Sales,Sales Representative,7,5,11
+E250,Simran T. Bhat,Product,Product Analyst,6,4,10
+E251,Kartik U. Joshi,Data & Analytics,Data Engineer,5,3,9
+E252,Raghav V. Bose,Marketing,Campaign Manager,4,2,8
+E253,Suhani W. Khan,IT & Security,Cloud Administrator,3,1,7
+E254,Suresh X. Mukherjee,Data & Analytics,Data Analyst,2,0,6
+E255,Vikram Y. Gupta,Marketing,Content Strategist,1,10,5
+E256,Akhil Z. Kumar,IT & Security,Network Administrator,0,9,4
+E257,Arjun A. Thakur,Design,UI Designer,12,8,3
+E258,Diya B. Gill,Finance,Tax Associate,11,7,2
+E259,Avni C. Bhat,Legal & Compliance,Legal Executive,10,6,1
+E260,Yash D. Joshi,Procurement,Procurement Manager,9,5,0
+E261,Navya E. Bose,Human Resources,Recruiter,8,4,15
+E262,Aanya F. Khan,Operations,Process Analyst,7,3,14
+E263,Samar G. Kaur,Procurement,Procurement Manager,6,2,13
+E264,Tanya H. Verma,Human Resources,Talent Acquisition Specialist,5,1,12
+E265,Om I. Rao,Operations,Operations Manager,4,0,11
+E266,Mohit J. Saxena,Research & Development,Research Analyst,3,10,10
+E267,Shreya K. Paul,Engineering,Technical Lead,2,9,9
+E268,Rahul L. Anand,Customer Support,Support Team Lead,1,8,8
+E269,Anmol M. Nair,Administration,Reception Executive,0,7,7
+E270,Akhil N. Sinha,Quality Assurance,Test Engineer,12,6,6
+E271,Vihaan O. Khan,Sales,Sales Executive,11,5,5
+E272,Ananya P. Kaur,Administration,Admin Coordinator,10,4,4
+E273,Riya Q. Verma,Quality Assurance,QA Analyst,9,3,3
+E274,Vedant R. Rao,Sales,Sales Representative,8,2,2
+E275,Ishita S. Saxena,Product,Product Analyst,7,1,1
+E276,Shanaya T. Paul,Data & Analytics,Data Analyst,6,0,0
+E277,Abhinav U. Anand,Marketing,Marketing Executive,5,10,15
+E278,Zoya V. Nair,IT & Security,Database Administrator,4,9,14
+E279,Sana W. Sinha,Design,Design Lead,3,8,13
+E280,Chirag X. Pandey,Finance,Accounts Executive,2,7,12
+E281,Kavya Y. Ali,IT & Security,Network Administrator,1,6,11
+E282,Neil Z. Patel,Design,Motion Designer,0,5,10
+E283,Anmol A. Iyer,Finance,Finance Manager,12,4,9
+E284,Esha B. Kulkarni,Legal & Compliance,Compliance Manager,11,3,8
+E285,Aditya C. Arora,Procurement,Sourcing Specialist,10,2,7
+E286,Ishaan D. Chawla,Human Resources,HR Executive,9,1,6
+E287,Ira E. Reddy,Operations,Process Analyst,8,0,5
+E288,Rudra F. Sinha,Research & Development,ML Engineer,7,10,4
+E289,Sara G. Pandey,Engineering,Data Analyst,6,9,3
+E290,Nisha H. Ali,Operations,Operations Executive,5,8,2
+E291,Ritvik I. Patel,Research & Development,ML Engineer,4,7,1
+E292,Aisha J. Iyer,Engineering,Python Developer,3,6,0
+E293,Aarohi K. Kulkarni,Customer Support,Customer Experience Analyst,2,5,15
+E294,Akash L. Arora,Administration,Executive Assistant,1,4,14
+E295,Aditi M. Chawla,Quality Assurance,Test Lead,0,3,13
+E296,Neil N. Reddy,Sales,Sales Executive,12,2,12
+E297,Ramesh O. Menon,Product,Business Analyst,11,1,11
+E298,Madhav P. Yadav,Data & Analytics,Data Scientist,10,0,10
+E299,Vivaan Q. Fernandes,Sales,Regional Sales Executive,9,10,9
+E300,Krishna R. Sharma,Product,Product Designer,8,9,8
+E301,Pari S. Das,Data & Analytics,Analytics Manager,7,8,7
+E302,Dhruv T. Bansal,Marketing,Content Strategist,6,7,6
+E303,Harsh U. Shetty,IT & Security,Database Administrator,5,6,5
+E304,Pihu V. Qureshi,Design,Motion Designer,4,5,4
+E305,Pranav W. Reddy,Finance,Budget Analyst,3,4,3
+E306,Mira X. Menon,Legal & Compliance,Contract Specialist,2,3,2
+E307,Rhea Y. Yadav,Procurement,Purchasing Analyst,1,2,1
+E308,Siddharth Z. Fernandes,Finance,Auditor,0,1,0
+E309,Aditi A. Sharma,Legal & Compliance,Compliance Manager,12,0,15
+E310,Bhavna B. Das,Procurement,Vendor Manager,11,10,14
+E311,Pratik C. Bansal,Human Resources,HR Business Partner,10,9,13
+E312,Roshni D. Shetty,Operations,Supply Chain Associate,9,8,12
+E313,Aarav E. Qureshi,Research & Development,Research Scientist,8,7,11
+E314,Ayaan F. Singh,Engineering,DevOps Engineer,7,6,10
+E315,Myra G. Agarwal,Customer Support,Technical Support Specialist,6,5,9
+E316,Atharv H. Ghosh,Administration,Office Administrator,5,4,8
+E317,Kunal I. Thomas,Engineering,DevOps Engineer,4,3,7
+E318,Tara J. Tiwari,Customer Support,Technical Support Specialist,3,2,6
+E319,Shaurya K. Mishra,Administration,Office Administrator,2,1,5
+E320,Aryan L. Choudhary,Quality Assurance,Quality Manager,1,0,4
+E321,Ishani M. Pillai,Sales,Business Development Associate,0,10,3
+E322,Siddharth N. Qureshi,Product,Business Analyst,12,9,2
+E323,Mahima O. Singh,Data & Analytics,BI Developer,11,8,1
+E324,Pallavi P. Agarwal,Marketing,Marketing Executive,10,7,0
+E325,Jayant Q. Ghosh,IT & Security,Cybersecurity Analyst,9,6,15
+E326,Tanvi R. Thomas,Data & Analytics,BI Developer,8,5,14
+E327,Anushka S. Tiwari,Marketing,Brand Associate,7,4,13
+E328,Reyansh T. Mishra,IT & Security,IT Manager,6,3,12
+E329,Saanvi U. Choudhary,Design,UX Designer,5,2,11
+E330,Kabir V. Pillai,Finance,Finance Manager,4,1,10
+E331,Rohan W. Sen,Legal & Compliance,Contract Specialist,3,0,9
+E332,Meera X. Mehta,Procurement,Vendor Manager,2,10,8
+E333,Manav Y. Jain,Human Resources,Talent Acquisition Specialist,1,9,7
+E334,Nakul Z. Desai,Operations,Operations Executive,0,8,6
+E335,Ishani A. Dutta,Procurement,Procurement Executive,12,7,5
+E336,Gaurav B. Sethi,Human Resources,Payroll Executive,11,6,4
+E337,Prisha C. Kapoor,Operations,Supply Chain Associate,10,5,3
+E338,Neha D. Malhotra,Research & Development,Lab Coordinator,9,4,2
+E339,Amitabh E. Pillai,Engineering,Backend Developer,8,3,1
+E340,Sakshi F. Sen,Customer Support,Customer Success Associate,7,2,0
+E341,Keshav G. Mehta,Administration,Facilities Manager,6,1,15
+E342,Sai H. Jain,Quality Assurance,Automation Engineer,5,0,14
+E343,Aadhya I. Desai,Sales,Regional Sales Executive,4,10,13
+E344,Kiara J. Dutta,Administration,Reception Executive,3,9,12
+E345,Parth K. Sethi,Quality Assurance,Test Engineer,2,8,11
+E346,Anika L. Kapoor,Sales,Key Account Manager,1,7,10
+E347,Dev M. Malhotra,Product,UI Designer,0,6,9
+E348,Nakul N. Roy,Data & Analytics,Data Engineer,12,5,8
+E349,Fatima O. Mukherjee,Marketing,Social Media Manager,11,4,7
+E350,Nikhil P. Gupta,IT & Security,Cybersecurity Analyst,10,3,6
+E351,Deepak Q. Kumar,Design,UI Designer,9,2,5
+E352,Ritika R. Thakur,Finance,Budget Analyst,8,1,4
+E353,Varun S. Gill,IT & Security,IT Support Engineer,7,0,3
+E354,Nandini T. Bhat,Design,UI Designer,6,10,2
+E355,Lavanya U. Joshi,Finance,Accountant,5,9,1
+E356,Arjun V. Malhotra,Legal & Compliance,Risk Analyst,4,8,0
+E357,Diya W. Roy,Procurement,Procurement Manager,3,7,15
+E358,Avni X. Mukherjee,Human Resources,HR Business Partner,2,6,14
+E359,Yash Y. Gupta,Operations,Operations Executive,1,5,13
+E360,Navya Z. Kumar,Research & Development,Lab Coordinator,0,4,12
+E361,Dev A. Thakur,Engineering,Systems Engineer,12,3,11
+E362,Lakshya B. Gill,Operations,Facility Coordinator,11,2,10
+E363,Simran C. Bhat,Research & Development,Research Analyst,10,1,9
+E364,Kartik D. Joshi,Engineering,Systems Engineer,9,0,8
+E365,Raghav E. Bose,Customer Support,Support Team Lead,8,10,7
+E366,Suhani F. Khan,Administration,Admin Coordinator,7,9,6
+E367,Suresh G. Kaur,Quality Assurance,Test Engineer,6,8,5
+E368,Vikram H. Verma,Sales,Account Executive,5,7,4
+E369,Akhil I. Rao,Product,UX Researcher,4,6,3
+E370,Vihaan J. Saxena,Data & Analytics,Data Analyst,3,5,2
+E371,Ananya K. Paul,Sales,Key Account Manager,2,4,1
+E372,Riya L. Anand,Product,UI Designer,1,3,0
+E373,Vedant M. Joshi,Data & Analytics,Data Scientist,0,2,15
+E374,Navya N. Bose,Marketing,SEO Specialist,12,1,14
+E375,Aanya O. Khan,IT & Security,Cloud Administrator,11,0,13
+E376,Samar P. Kaur,Design,Design Lead,10,10,12
+E377,Tanya Q. Verma,Finance,Auditor,9,9,11
+E378,Om R. Rao,Legal & Compliance,Legal Associate,8,8,10
+E379,Mohit S. Saxena,Procurement,Sourcing Specialist,7,7,9
+E380,Shreya T. Paul,Finance,Financial Analyst,6,6,8
+E381,Rahul U. Anand,Legal & Compliance,Legal Executive,5,5,7
+E382,Anmol V. Nair,Procurement,Sourcing Specialist,4,4,6
+E383,Esha W. Sinha,Human Resources,Learning Coordinator,3,3,5
+E384,Aditya X. Pandey,Operations,Logistics Coordinator,2,2,4
+E385,Ishaan Y. Ali,Research & Development,ML Engineer,1,1,3
+E386,Ira Z. Patel,Engineering,QA Engineer,0,0,2
+E387,Vedant A. Iyer,Customer Support,Customer Experience Analyst,12,10,1
+E388,Ishita B. Kulkarni,Administration,Admin Coordinator,11,9,0
+E389,Shanaya C. Arora,Engineering,Data Analyst,10,8,15
+E390,Abhinav D. Anand,Customer Support,Customer Experience Analyst,9,7,14
+E391,Zoya E. Nair,Administration,Executive Assistant,8,6,13
+E392,Sana F. Sinha,Quality Assurance,Test Lead,7,5,12
+E393,Chirag G. Pandey,Sales,Account Executive,6,4,11
+E394,Kavya H. Ali,Product,UX Researcher,5,3,10
+E395,Neil I. Patel,Data & Analytics,Data Scientist,4,2,9
+E396,Ramesh J. Iyer,Marketing,Brand Associate,3,1,8
+E397,Madhav K. Kulkarni,IT & Security,IT Support Engineer,2,0,7
+E398,Vivaan L. Arora,Data & Analytics,Analytics Manager,1,10,6
+E399,Krishna M. Chawla,Marketing,Campaign Manager,0,9,5
+E400,Ira N. Reddy,IT & Security,Cloud Administrator,12,8,4
+E401,Rudra O. Menon,Design,Visual Designer,11,7,3
+E402,Sara P. Yadav,Finance,Financial Analyst,10,6,2
+E403,Nisha Q. Fernandes,Legal & Compliance,Compliance Analyst,9,5,1
+E404,Ritvik R. Sharma,Procurement,Purchasing Analyst,8,4,0
+E405,Aisha S. Das,Human Resources,Payroll Executive,7,3,15
+E406,Aarohi T. Bansal,Operations,Facility Coordinator,6,2,14
+E407,Akash U. Arora,Procurement,Vendor Manager,5,1,13
+E408,Aditi V. Chawla,Human Resources,Recruiter,4,0,12
+E409,Bhavna W. Reddy,Operations,Process Analyst,3,10,11
+E410,Pratik X. Menon,Research & Development,Research Scientist,2,9,10
+E411,Roshni Y. Yadav,Engineering,Frontend Developer,1,8,9
+E412,Aarav Z. Fernandes,Customer Support,Technical Support Specialist,0,7,8
+E413,Krishna A. Sharma,Administration,Office Administrator,12,6,7
+E414,Pari B. Das,Quality Assurance,Quality Manager,11,5,6
+E415,Dhruv C. Bansal,Sales,Key Account Manager,10,4,5
+E416,Harsh D. Shetty,Administration,Office Administrator,9,3,4
+E417,Pihu E. Qureshi,Quality Assurance,Quality Manager,8,2,3
+E418,Pranav F. Singh,Sales,Sales Executive,7,1,2
+E419,Mira G. Agarwal,Product,Product Manager,6,0,1
+E420,Rhea H. Ghosh,Data & Analytics,BI Developer,5,10,0
+E421,Siddharth I. Thomas,Marketing,SEO Specialist,4,9,15
+E422,Mahima J. Tiwari,IT & Security,IT Support Engineer,3,8,14
+E423,Pallavi K. Mishra,Design,Visual Designer,2,7,13
+E424,Jayant L. Bansal,Finance,Accountant,1,6,12
+E425,Tanvi M. Shetty,IT & Security,Database Administrator,0,5,11
+E426,Aarav N. Qureshi,Design,UX Designer,12,4,10
+E427,Ayaan O. Singh,Finance,Accounts Executive,11,3,9
+E428,Myra P. Agarwal,Legal & Compliance,Compliance Analyst,10,2,8
+E429,Atharv Q. Ghosh,Procurement,Procurement Executive,9,1,7
+E430,Kunal R. Thomas,Human Resources,Recruiter,8,0,6
+E431,Tara S. Tiwari,Operations,Operations Manager,7,10,5
+E432,Shaurya T. Mishra,Research & Development,Research Associate,6,9,4
+E433,Aryan U. Choudhary,Engineering,Technical Lead,5,8,3
+E434,Ishani V. Pillai,Operations,Process Analyst,4,7,2
+E435,Gaurav W. Sen,Research & Development,Lab Coordinator,3,6,1
+E436,Prisha X. Mehta,Engineering,Technical Lead,2,5,0
+E437,Neha Y. Jain,Customer Support,Customer Success Associate,1,4,15
+E438,Amitabh Z. Desai,Administration,Facilities Manager,0,3,14
+E439,Tanvi A. Dutta,Quality Assurance,Automation Engineer,12,2,13
+E440,Anushka B. Sethi,Sales,Sales Representative,11,1,12
+E441,Reyansh C. Mishra,Product,Product Analyst,10,0,11
+E442,Saanvi D. Choudhary,Data & Analytics,Data Engineer,9,10,10
+E443,Kabir E. Pillai,Sales,Sales Executive,8,9,9
+E444,Rohan F. Sen,Product,Business Analyst,7,8,8
+E445,Meera G. Mehta,Data & Analytics,Data Engineer,6,7,7
+E446,Manav H. Jain,Marketing,Graphic Designer,5,6,6
+E447,Nakul I. Desai,IT & Security,Network Administrator,4,5,5
+E448,Fatima J. Dutta,Design,UI Designer,3,4,4
+E449,Nikhil K. Sethi,Finance,Financial Analyst,2,3,3
+E450,Deepak L. Kapoor,Legal & Compliance,Legal Executive,1,2,2
+E451,Ritika M. Malhotra,Procurement,Procurement Executive,0,1,1
+E452,Amitabh N. Roy,Finance,Budget Analyst,12,0,0
+E453,Sakshi O. Mukherjee,Legal & Compliance,Contract Specialist,11,10,15
+E454,Keshav P. Gupta,Procurement,Procurement Manager,10,9,14
+E455,Sai Q. Kumar,Human Resources,HR Manager,9,8,13
+E456,Aadhya R. Thakur,Operations,Operations Manager,8,7,12
+E457,Kiara S. Gill,Research & Development,Research Analyst,7,6,11
+E458,Parth T. Sethi,Engineering,Python Developer,6,5,10
+E459,Anika U. Kapoor,Customer Support,Support Executive,5,4,9
+E460,Dev V. Malhotra,Administration,Reception Executive,4,3,8
+E461,Lakshya W. Roy,Engineering,Python Developer,3,2,7
+E462,Simran X. Mukherjee,Customer Support,Support Team Lead,2,1,6
+E463,Kartik Y. Gupta,Administration,Admin Coordinator,1,0,5
+E464,Raghav Z. Kumar,Quality Assurance,QA Analyst,0,10,4
+E465,Ritika A. Thakur,Sales,Regional Sales Executive,12,9,3
+E466,Varun B. Gill,Product,Product Designer,11,8,2
+E467,Nandini C. Bhat,Data & Analytics,Data Analyst,10,7,1
+E468,Lavanya D. Joshi,Marketing,Campaign Manager,9,6,0
+E469,Arjun E. Bose,IT & Security,Database Administrator,8,5,15
+E470,Diya F. Khan,Data & Analytics,Data Scientist,7,4,14
+E471,Avni G. Kaur,Marketing,Marketing Executive,6,3,13
+E472,Yash H. Verma,IT & Security,Cybersecurity Analyst,5,2,12
+E473,Navya I. Rao,Design,Design Lead,4,1,11
+E474,Aanya J. Saxena,Finance,Tax Associate,3,0,10
+E475,Samar K. Gill,Legal & Compliance,Compliance Manager,2,10,9
+E476,Tanya L. Bhat,Procurement,Sourcing Specialist,1,9,8
+E477,Om M. Joshi,Human Resources,Recruiter,0,8,7
+E478,Raghav N. Bose,Operations,Process Analyst,12,7,6
+E479,Suhani O. Khan,Procurement,Sourcing Specialist,11,6,5
+E480,Suresh P. Kaur,Human Resources,Talent Acquisition Specialist,10,5,4
+E481,Vikram Q. Verma,Operations,Operations Executive,9,4,3
+E482,Akhil R. Rao,Research & Development,ML Engineer,8,3,2
+E483,Vihaan S. Saxena,Engineering,DevOps Engineer,7,2,1
+E484,Ananya T. Paul,Customer Support,Customer Experience Analyst,6,1,0
+E485,Riya U. Anand,Administration,Executive Assistant,5,0,15
+E486,Vedant V. Nair,Quality Assurance,QA Analyst,4,10,14
+E487,Ishita W. Sinha,Sales,Business Development Associate,3,9,13
+E488,Shanaya X. Pandey,Administration,Executive Assistant,2,8,12
+E489,Abhinav Y. Ali,Quality Assurance,Test Lead,1,7,11
+E490,Zoya Z. Patel,Sales,Regional Sales Executive,0,6,10
+E491,Om A. Iyer,Product,Product Designer,12,5,9
+E492,Mohit B. Saxena,Data & Analytics,Analytics Manager,11,4,8
+E493,Shreya C. Paul,Marketing,Marketing Executive,10,3,7
+E494,Rahul D. Anand,IT & Security,IT Manager,9,2,6
+E495,Anmol E. Nair,Design,Motion Designer,8,1,5
+E496,Esha F. Sinha,Finance,Accounts Executive,7,0,4
+E497,Aditya G. Pandey,IT & Security,Cybersecurity Analyst,6,10,3
+E498,Ishaan H. Ali,Design,Visual Designer,5,9,2
+E499,Ira I. Patel,Finance,Budget Analyst,4,8,1
+E500,Rudra J. Iyer,Legal & Compliance,Legal Associate,3,7,0
+E501,Sara K. Kulkarni,Procurement,Purchasing Analyst,2,6,15
+E502,Nisha L. Arora,Human Resources,HR Executive,1,5,14
+E503,Ritvik M. Chawla,Operations,Supply Chain Associate,0,4,13
+E504,Zoya N. Reddy,Research & Development,Research Scientist,12,3,12
+E505,Sana O. Menon,Engineering,Software Engineer,11,2,11
+E506,Chirag P. Yadav,Operations,Operations Executive,10,1,10
+E507,Kavya Q. Fernandes,Research & Development,Research Scientist,9,0,9
+E508,Neil R. Sharma,Engineering,Backend Developer,8,10,8
+E509,Ramesh S. Iyer,Customer Support,Technical Support Specialist,7,9,7
+E510,Madhav T. Kulkarni,Administration,Office Administrator,6,8,6
+E511,Vivaan U. Arora,Quality Assurance,Quality Manager,5,7,5
+E512,Krishna V. Chawla,Sales,Business Development Associate,4,6,4
+E513,Pari W. Reddy,Product,Business Analyst,3,5,3
+E514,Dhruv X. Menon,Data & Analytics,Analytics Manager,2,4,2
+E515,Harsh Y. Yadav,Sales,Account Executive,1,3,1
+E516,Pihu Z. Fernandes,Product,UX Researcher,0,2,0
+E517,Ritvik A. Sharma,Data & Analytics,BI Developer,12,1,15
+E518,Aisha B. Das,Marketing,Content Strategist,11,0,14
+E519,Aarohi C. Bansal,IT & Security,IT Manager,10,10,13
+E520,Akash D. Shetty,Design,UX Designer,9,9,12
+E521,Aditi E. Qureshi,Finance,Budget Analyst,8,8,11
+E522,Bhavna F. Singh,Legal & Compliance,Risk Analyst,7,7,10
+E523,Pratik G. Agarwal,Procurement,Vendor Manager,6,6,9
+E524,Roshni H. Ghosh,Finance,Auditor,5,5,8
+E525,Aarav I. Thomas,Legal & Compliance,Legal Associate,4,4,7
+E526,Ayaan J. Sharma,Procurement,Procurement Executive,3,3,6
+E527,Myra K. Das,Human Resources,Talent Acquisition Specialist,2,2,5
+E528,Atharv L. Bansal,Operations,Facility Coordinator,1,1,4
+E529,Kunal M. Shetty,Research & Development,Research Associate,0,0,3
+E530,Pihu N. Qureshi,Engineering,Systems Engineer,12,10,2
+E531,Pranav O. Singh,Customer Support,Customer Success Associate,11,9,1
+E532,Mira P. Agarwal,Administration,Facilities Manager,10,8,0
+E533,Rhea Q. Ghosh,Engineering,Systems Engineer,9,7,15
+E534,Siddharth R. Thomas,Customer Support,Support Executive,8,6,14
+E535,Mahima S. Tiwari,Administration,Facilities Manager,7,5,13
+E536,Pallavi T. Mishra,Quality Assurance,Automation Engineer,6,4,12
+E537,Jayant U. Choudhary,Sales,Key Account Manager,5,3,11
+E538,Tanvi V. Pillai,Product,UI Designer,4,2,10
+E539,Anushka W. Sen,Data & Analytics,Data Engineer,3,1,9
+E540,Reyansh X. Mehta,Marketing,Marketing Executive,2,0,8
+E541,Saanvi Y. Jain,IT & Security,Cybersecurity Analyst,1,10,7
+E542,Kabir Z. Desai,Data & Analytics,Data Engineer,0,9,6
+E543,Kunal A. Thomas,Marketing,Brand Associate,12,8,5
+E544,Tara B. Tiwari,IT & Security,IT Support Engineer,11,7,4
+E545,Shaurya C. Mishra,Design,UI Designer,10,6,3
+E546,Aryan D. Choudhary,Finance,Finance Manager,9,5,2
+E547,Ishani E. Pillai,Legal & Compliance,Risk Analyst,8,4,1
+E548,Gaurav F. Sen,Procurement,Procurement Manager,7,3,0
+E549,Prisha G. Mehta,Human Resources,Talent Acquisition Specialist,6,2,15
+E550,Neha H. Jain,Operations,Logistics Coordinator,5,1,14
+E551,Amitabh I. Desai,Procurement,Procurement Manager,4,0,13
+E552,Sakshi J. Dutta,Human Resources,Payroll Executive,3,10,12
+E553,Keshav K. Sethi,Operations,Facility Coordinator,2,9,11
+E554,Sai L. Kapoor,Research & Development,Research Analyst,1,8,10
+E555,Aadhya M. Malhotra,Engineering,QA Engineer,0,7,9
+E556,Kabir N. Roy,Customer Support,Support Executive,12,6,8
+E557,Rohan O. Mukherjee,Administration,Reception Executive,11,5,7
+E558,Meera P. Gupta,Quality Assurance,Test Engineer,10,4,6
+E559,Manav Q. Kumar,Sales,Account Executive,9,3,5
+E560,Nakul R. Desai,Administration,Admin Coordinator,8,2,4
+E561,Fatima S. Dutta,Quality Assurance,QA Analyst,7,1,3
+E562,Nikhil T. Sethi,Sales,Key Account Manager,6,0,2
+E563,Deepak U. Kapoor,Product,Product Analyst,5,10,1
+E564,Ritika V. Malhotra,Data & Analytics,Data Analyst,4,9,0
+E565,Varun W. Roy,Marketing,Social Media Manager,3,8,15
+E566,Nandini X. Mukherjee,IT & Security,Cloud Administrator,2,7,14
+E567,Lavanya Y. Gupta,Design,Design Lead,1,6,13
+E568,Arjun Z. Kumar,Finance,Budget Analyst,0,5,12
+E569,Aadhya A. Thakur,IT & Security,IT Support Engineer,12,4,11
+E570,Kiara B. Gill,Design,Design Lead,11,3,10
+E571,Parth C. Bhat,Finance,Accountant,10,2,9
+E572,Anika D. Joshi,Legal & Compliance,Legal Executive,9,1,8
+E573,Dev E. Bose,Procurement,Sourcing Specialist,8,0,7
+E574,Lakshya F. Khan,Human Resources,HR Business Partner,7,10,6
+E575,Simran G. Kaur,Operations,Logistics Coordinator,6,9,5
+E576,Kartik H. Verma,Research & Development,ML Engineer,5,8,4
+E577,Raghav I. Kumar,Engineering,Frontend Developer,4,7,3
+E578,Suhani J. Thakur,Operations,Operations Manager,3,6,2
+E579,Suresh K. Gill,Research & Development,ML Engineer,2,5,1
+E580,Vikram L. Bhat,Engineering,Frontend Developer,1,4,0
+E581,Akhil M. Joshi,Customer Support,Customer Experience Analyst,0,3,15
+E582,Arjun N. Bose,Administration,Executive Assistant,12,2,14
+E583,Diya O. Khan,Quality Assurance,Test Lead,11,1,13
+E584,Avni P. Kaur,Sales,Sales Executive,10,0,12
+E585,Yash Q. Verma,Product,Product Manager,9,10,11
+E586,Navya R. Rao,Data & Analytics,Data Scientist,8,9,10
+E587,Aanya S. Saxena,Sales,Sales Representative,7,8,9
+E588,Samar T. Paul,Product,Product Analyst,6,7,8
+E589,Tanya U. Anand,Data & Analytics,Analytics Manager,5,6,7
+E590,Om V. Nair,Marketing,Brand Associate,4,5,6
+E591,Mohit W. Sinha,IT & Security,Database Administrator,3,4,5
+E592,Shreya X. Pandey,Design,Motion Designer,2,3,4
+E593,Rahul Y. Ali,Finance,Auditor,1,2,3
+E594,Anmol Z. Verma,Legal & Compliance,Compliance Analyst,0,1,2
+E595,Akhil A. Rao,Procurement,Purchasing Analyst,12,0,1
+E596,Vihaan B. Saxena,Finance,Financial Analyst,11,10,0
+E597,Ananya C. Paul,Legal & Compliance,Legal Executive,10,9,15
+E598,Riya D. Anand,Procurement,Purchasing Analyst,9,8,14
+E599,Vedant E. Nair,Human Resources,Learning Coordinator,8,7,13
+E600,Ishita F. Sinha,Operations,Process Analyst,7,6,12
+E601,Shanaya G. Pandey,Research & Development,Research Scientist,6,5,11
+E602,Abhinav H. Ali,Engineering,Technical Lead,5,4,10
+E603,Zoya I. Patel,Customer Support,Technical Support Specialist,4,3,9
+E604,Sana J. Iyer,Administration,Office Administrator,3,2,8
+E605,Chirag K. Kulkarni,Engineering,Software Engineer,2,1,7
+E606,Kavya L. Arora,Customer Support,Technical Support Specialist,1,0,6
+E607,Neil M. Chawla,Administration,Office Administrator,0,10,5
+E608,Anmol N. Reddy,Quality Assurance,Quality Manager,12,9,4
+E609,Esha O. Menon,Sales,Sales Executive,11,8,3
+E610,Aditya P. Yadav,Product,Product Manager,10,7,2
+E611,Ishaan Q. Ali,Data & Analytics,BI Developer,9,6,1
+E612,Ira R. Patel,Marketing,Brand Associate,8,5,0
+E613,Rudra S. Iyer,IT & Security,Network Administrator,7,4,15
+E614,Sara T. Kulkarni,Data & Analytics,BI Developer,6,3,14
+E615,Nisha U. Arora,Marketing,Campaign Manager,5,2,13
+E616,Ritvik V. Chawla,IT & Security,Database Administrator,4,1,12
+E617,Aisha W. Reddy,Design,UX Designer,3,0,11
+E618,Aarohi X. Menon,Finance,Accountant,2,10,10
+E619,Akash Y. Yadav,Legal & Compliance,Contract Specialist,1,9,9
+E620,Aditi Z. Fernandes,Procurement,Vendor Manager,0,8,8
+E621,Neil A. Sharma,Human Resources,Payroll Executive,12,7,7
+E622,Ramesh B. Das,Operations,Operations Manager,11,6,6
+E623,Madhav C. Bansal,Procurement,Procurement Executive,10,5,5
+E624,Vivaan D. Shetty,Human Resources,Recruiter,9,4,4
+E625,Krishna E. Qureshi,Operations,Process Analyst,8,3,3
+E626,Pari F. Singh,Research & Development,Research Associate,7,2,2
+E627,Dhruv G. Agarwal,Engineering,Python Developer,6,1,1
+E628,Harsh H. Yadav,Customer Support,Customer Success Associate,5,0,0
+E629,Pihu I. Fernandes,Administration,Facilities Manager,4,10,15
+E630,Pranav J. Sharma,Quality Assurance,Automation Engineer,3,9,14
+E631,Mira K. Das,Sales,Sales Representative,2,8,13
+E632,Rhea L. Bansal,Administration,Reception Executive,1,7,12
+E633,Siddharth M. Shetty,Quality Assurance,Automation Engineer,0,6,11
+E634,Aditi N. Qureshi,Sales,Business Development Associate,12,5,10
+E635,Bhavna O. Singh,Product,Business Analyst,11,4,9
+E636,Pratik P. Agarwal,Data & Analytics,Data Engineer,10,3,8
+E637,Roshni Q. Ghosh,Marketing,SEO Specialist,9,2,7
+E638,Aarav R. Thomas,IT & Security,Network Administrator,8,1,6
+E639,Ayaan S. Tiwari,Design,UI Designer,7,0,5
+E640,Myra T. Mishra,Finance,Accountant,6,10,4
+E641,Atharv U. Choudhary,IT & Security,IT Manager,5,9,3
+E642,Kunal V. Pillai,Design,UI Designer,4,8,2
+E643,Tara W. Sen,Finance,Accounts Executive,3,7,1
+E644,Shaurya X. Mehta,Legal & Compliance,Contract Specialist,2,6,0
+E645,Aryan Y. Agarwal,Procurement,Procurement Manager,1,5,15
+E646,Ishani Z. Ghosh,Human Resources,Learning Coordinator,0,4,14
+E647,Siddharth A. Thomas,Operations,Operations Executive,12,3,13
+E648,Mahima B. Tiwari,Research & Development,Lab Coordinator,11,2,12
+E649,Pallavi C. Mishra,Engineering,DevOps Engineer,10,1,11
+E650,Jayant D. Choudhary,Operations,Supply Chain Associate,9,0,10
+E651,Tanvi E. Pillai,Research & Development,Research Analyst,8,10,9
+E652,Anushka F. Sen,Engineering,DevOps Engineer,7,9,8
+E653,Reyansh G. Mehta,Customer Support,Support Team Lead,6,8,7
+E654,Saanvi H. Jain,Administration,Reception Executive,5,7,6
+E655,Kabir I. Desai,Quality Assurance,Test Engineer,4,6,5
+E656,Rohan J. Dutta,Sales,Regional Sales Executive,3,5,4
+E657,Meera K. Sethi,Product,Product Designer,2,4,3
+E658,Manav L. Kapoor,Data & Analytics,Data Analyst,1,3,2
+E659,Nakul M. Malhotra,Sales,Business Development Associate,0,2,1
+E660,Ishani N. Roy,Product,Business Analyst,12,1,0
+E661,Gaurav O. Mukherjee,Data & Analytics,Data Analyst,11,0,15
+E662,Prisha P. Mehta,Marketing,Graphic Designer,10,10,14
+E663,Neha Q. Jain,IT & Security,Cybersecurity Analyst,9,9,13
+E664,Amitabh R. Desai,Design,Design Lead,8,8,12
+E665,Sakshi S. Dutta,Finance,Financial Analyst,7,7,11
+E666,Keshav T. Sethi,Legal & Compliance,Compliance Manager,6,6,10
+E667,Sai U. Kapoor,Procurement,Sourcing Specialist,5,5,9
+E668,Aadhya V. Malhotra,Finance,Budget Analyst,4,4,8
+E669,Kiara W. Roy,Legal & Compliance,Risk Analyst,3,3,7
+E670,Parth X. Mukherjee,Procurement,Sourcing Specialist,2,2,6
+E671,Anika Y. Gupta,Human Resources,HR Manager,1,1,5
+E672,Dev Z. Kumar,Operations,Operations Executive,0,0,4
+E673,Nakul A. Thakur,Research & Development,ML Engineer,12,10,3
+E674,Fatima B. Gill,Engineering,Software Engineer,11,9,2
+E675,Nikhil C. Bhat,Customer Support,Support Team Lead,10,8,1
+E676,Deepak D. Joshi,Administration,Admin Coordinator,9,7,0
+E677,Ritika E. Bose,Engineering,Backend Developer,8,6,15
+E678,Varun F. Khan,Customer Support,Customer Experience Analyst,7,5,14
+E679,Nandini G. Mukherjee,Administration,Executive Assistant,6,4,13
+E680,Lavanya H. Gupta,Quality Assurance,Test Lead,5,3,12
+E681,Arjun I. Kumar,Sales,Regional Sales Executive,4,2,11
+E682,Diya J. Thakur,Product,UX Researcher,3,1,10
+E683,Avni K. Gill,Data & Analytics,Data Scientist,2,0,9
+E684,Yash L. Bhat,Marketing,Campaign Manager,1,10,8
+E685,Navya M. Joshi,IT & Security,IT Manager,0,9,7
+E686,Dev N. Bose,Data & Analytics,Analytics Manager,12,8,6
+E687,Lakshya O. Khan,Marketing,Marketing Executive,11,7,5
+E688,Simran P. Kaur,IT & Security,Cybersecurity Analyst,10,6,4
+E689,Kartik Q. Verma,Design,Motion Designer,9,5,3
+E690,Raghav R. Rao,Finance,Tax Associate,8,4,2
+E691,Suhani S. Saxena,Legal & Compliance,Legal Associate,7,3,1
+E692,Suresh T. Paul,Procurement,Purchasing Analyst,6,2,0
+E693,Vikram U. Anand,Human Resources,Recruiter,5,1,15
+E694,Akhil V. Nair,Operations,Supply Chain Associate,4,0,14
+E695,Vihaan W. Sinha,Procurement,Vendor Manager,3,10,13
+E696,Ananya X. Khan,Human Resources,Talent Acquisition Specialist,2,9,12
+E697,Riya Y. Kaur,Operations,Logistics Coordinator,1,8,11
+E698,Vedant Z. Verma,Research & Development,Research Scientist,0,7,10
+E699,Navya A. Rao,Engineering,Systems Engineer,12,6,9
+E700,Aanya B. Saxena,Customer Support,Technical Support Specialist,11,5,8
+E701,Samar C. Paul,Administration,Office Administrator,10,4,7
+E702,Tanya D. Anand,Quality Assurance,Quality Manager,9,3,6
+E703,Om E. Nair,Sales,Key Account Manager,8,2,5
+E704,Mohit F. Sinha,Administration,Office Administrator,7,1,4
+E705,Shreya G. Pandey,Quality Assurance,Quality Manager,6,0,3
+E706,Rahul H. Ali,Sales,Account Executive,5,10,2
+E707,Anmol I. Patel,Product,UX Researcher,4,9,1
+E708,Esha J. Iyer,Data & Analytics,BI Developer,3,8,0
+E709,Aditya K. Kulkarni,Marketing,Graphic Designer,2,7,15
+E710,Ishaan L. Arora,IT & Security,IT Support Engineer,1,6,14
+E711,Ira M. Chawla,Design,Visual Designer,0,5,13
+E712,Vedant N. Reddy,Finance,Accounts Executive,12,4,12
+E713,Ishita O. Sinha,IT & Security,Cloud Administrator,11,3,11
+E714,Shanaya P. Pandey,Design,UX Designer,10,2,10
+E715,Abhinav Q. Ali,Finance,Budget Analyst,9,1,9
+E716,Zoya R. Patel,Legal & Compliance,Legal Associate,8,0,8
+E717,Sana S. Iyer,Procurement,Vendor Manager,7,10,7
+E718,Chirag T. Kulkarni,Human Resources,HR Executive,6,9,6
+E719,Kavya U. Arora,Operations,Facility Coordinator,5,8,5
+E720,Neil V. Chawla,Research & Development,Research Associate,4,7,4
+E721,Ramesh W. Reddy,Engineering,QA Engineer,3,6,3
+E722,Madhav X. Menon,Operations,Logistics Coordinator,2,5,2
+E723,Vivaan Y. Yadav,Research & Development,Lab Coordinator,1,4,1
+E724,Krishna Z. Fernandes,Engineering,Data Analyst,0,3,0
+E725,Ira A. Sharma,Customer Support,Customer Success Associate,12,2,15
+E726,Rudra B. Das,Administration,Facilities Manager,11,1,14
+E727,Sara C. Bansal,Quality Assurance,Automation Engineer,10,0,13
+E728,Nisha D. Shetty,Sales,Key Account Manager,9,10,12
+E729,Ritvik E. Qureshi,Product,UI Designer,8,9,11
+E730,Aisha F. Reddy,Data & Analytics,Data Engineer,7,8,10
+E731,Aarohi G. Menon,Sales,Sales Executive,6,7,9
+E732,Akash H. Yadav,Product,Product Manager,5,6,8
+E733,Aditi I. Fernandes,Data & Analytics,Data Engineer,4,5,7
+E734,Bhavna J. Sharma,Marketing,Content Strategist,3,4,6
+E735,Pratik K. Das,IT & Security,IT Support Engineer,2,3,5
+E736,Roshni L. Bansal,Design,UI Designer,1,2,4
+E737,Aarav M. Shetty,Finance,Tax Associate,0,1,3
+E738,Krishna N. Qureshi,Legal & Compliance,Legal Executive,12,0,2
+E739,Pari O. Singh,Procurement,Procurement Executive,11,10,1
+E740,Dhruv P. Agarwal,Finance,Auditor,10,9,0
+E741,Harsh Q. Ghosh,Legal & Compliance,Compliance Analyst,9,8,15
+E742,Pihu R. Thomas,Procurement,Procurement Manager,8,7,14
+E743,Pranav S. Tiwari,Human Resources,Talent Acquisition Specialist,7,6,13
+E744,Mira T. Mishra,Operations,Facility Coordinator,6,5,12
+E745,Rhea U. Choudhary,Research & Development,Lab Coordinator,5,4,11
+E746,Siddharth V. Pillai,Engineering,Frontend Developer,4,3,10
+E747,Mahima W. Qureshi,Customer Support,Support Executive,3,2,9
+E748,Pallavi X. Singh,Administration,Reception Executive,2,1,8
+E749,Jayant Y. Agarwal,Engineering,Frontend Developer,1,0,7
+E750,Tanvi Z. Ghosh,Customer Support,Support Team Lead,0,10,6
+E751,Aarav A. Thomas,Administration,Admin Coordinator,12,9,5
+E752,Ayaan B. Tiwari,Quality Assurance,Test Engineer,11,8,4
+E753,Myra C. Mishra,Sales,Sales Representative,10,7,3
+E754,Atharv D. Choudhary,Product,Product Analyst,9,6,2
+E755,Kunal E. Pillai,Data & Analytics,Data Analyst,8,5,1
+E756,Tara F. Sen,Marketing,Marketing Executive,7,4,0
+E757,Shaurya G. Mehta,IT & Security,Cloud Administrator,6,3,15
+E758,Aryan H. Jain,Data & Analytics,Data Scientist,5,2,14
+E759,Ishani I. Desai,Marketing,Brand Associate,4,1,13
+E760,Gaurav J. Dutta,IT & Security,Network Administrator,3,0,12
+E761,Prisha K. Sethi,Design,Design Lead,2,10,11
+E762,Neha L. Kapoor,Finance,Finance Manager,1,9,10
+E763,Amitabh M. Malhotra,Legal & Compliance,Legal Executive,0,8,9
+E764,Tanvi N. Pillai,Procurement,Sourcing Specialist,12,7,8
+E765,Anushka O. Sen,Human Resources,HR Executive,11,6,7
+E766,Reyansh P. Mehta,Operations,Process Analyst,10,5,6
+E767,Saanvi Q. Jain,Procurement,Sourcing Specialist,9,4,5
+E768,Kabir R. Desai,Human Resources,Payroll Executive,8,3,4
+E769,Rohan S. Dutta,Operations,Operations Manager,7,2,3
+E770,Meera T. Sethi,Research & Development,ML Engineer,6,1,2
+E771,Manav U. Kapoor,Engineering,Technical Lead,5,0,1
+E772,Nakul V. Malhotra,Customer Support,Customer Experience Analyst,4,10,0
+E773,Fatima W. Roy,Administration,Admin Coordinator,3,9,15
+E774,Nikhil X. Mukherjee,Quality Assurance,QA Analyst,2,8,14
+E775,Deepak Y. Gupta,Sales,Sales Executive,1,7,13
+E776,Ritika Z. Kumar,Administration,Executive Assistant,0,6,12
+E777,Amitabh A. Thakur,Quality Assurance,Test Lead,12,5,11
+E778,Sakshi B. Gill,Sales,Sales Representative,11,4,10
+E779,Keshav C. Bhat,Product,Product Analyst,10,3,9
+E780,Sai D. Joshi,Data & Analytics,Data Scientist,9,2,8
+E781,Aadhya E. Malhotra,Marketing,Social Media Manager,8,1,7
+E782,Kiara F. Roy,IT & Security,Database Administrator,7,0,6
+E783,Parth G. Mukherjee,Design,Motion Designer,6,10,5
+E784,Anika H. Gupta,Finance,Budget Analyst,5,9,4
+E785,Dev I. Kumar,IT & Security,Network Administrator,4,8,3
+E786,Lakshya J. Thakur,Design,Visual Designer,3,7,2
+E787,Simran K. Gill,Finance,Accountant,2,6,1
+E788,Kartik L. Bhat,Legal & Compliance,Compliance Manager,1,5,0
+E789,Raghav M. Joshi,Procurement,Purchasing Analyst,0,4,15
+E790,Ritika N. Bose,Human Resources,HR Business Partner,12,3,14
+E791,Varun O. Khan,Operations,Process Analyst,11,2,13
+E792,Nandini P. Kaur,Research & Development,Research Scientist,10,1,12
+E793,Lavanya Q. Verma,Engineering,Data Analyst,9,0,11
+E794,Arjun R. Rao,Operations,Operations Executive,8,10,10
+E795,Diya S. Saxena,Research & Development,Research Scientist,7,9,9
+E796,Avni T. Paul,Engineering,Python Developer,6,8,8
+E797,Yash U. Anand,Customer Support,Technical Support Specialist,5,7,7
+E798,Navya V. Joshi,Administration,Office Administrator,4,6,6
+E799,Aanya W. Bose,Quality Assurance,Quality Manager,3,5,5
+E800,Samar X. Khan,Sales,Sales Executive,2,4,4
+E801,Tanya Y. Kaur,Product,Business Analyst,1,3,3
+E802,Om Z. Verma,Data & Analytics,Analytics Manager,0,2,2
+E803,Raghav A. Rao,Sales,Regional Sales Executive,12,1,1
+E804,Suhani B. Saxena,Product,Product Designer,11,0,0
+E805,Suresh C. Paul,Data & Analytics,BI Developer,10,10,15
+E806,Vikram D. Anand,Marketing,Brand Associate,9,9,14
+E807,Akhil E. Nair,IT & Security,Database Administrator,8,8,13
+E808,Vihaan F. Sinha,Design,Visual Designer,7,7,12
+E809,Ananya G. Pandey,Finance,Auditor,6,6,11
+E810,Riya H. Ali,Legal & Compliance,Contract Specialist,5,5,10
+E811,Vedant I. Patel,Procurement,Vendor Manager,4,4,9
+E812,Ishita J. Iyer,Finance,Financial Analyst,3,3,8
+E813,Shanaya K. Kulkarni,Legal & Compliance,Compliance Manager,2,2,7
+E814,Abhinav L. Arora,Procurement,Procurement Executive,1,1,6
+E815,Zoya M. Anand,Human Resources,Learning Coordinator,0,0,5
+E816,Om N. Nair,Operations,Supply Chain Associate,12,10,4
+E817,Mohit O. Sinha,Research & Development,Research Associate,11,9,3
+E818,Shreya P. Pandey,Engineering,DevOps Engineer,10,8,2
+E819,Rahul Q. Ali,Customer Support,Customer Success Associate,9,7,1
+E820,Anmol R. Patel,Administration,Facilities Manager,8,6,0
+E821,Esha S. Iyer,Engineering,DevOps Engineer,7,5,15
+E822,Aditya T. Kulkarni,Customer Support,Customer Success Associate,6,4,14
+E823,Ishaan U. Arora,Administration,Facilities Manager,5,3,13
+E824,Ira V. Chawla,Quality Assurance,Automation Engineer,4,2,12
+E825,Rudra W. Reddy,Sales,Business Development Associate,3,1,11
+E826,Sara X. Menon,Product,Business Analyst,2,0,10
+E827,Nisha Y. Yadav,Data & Analytics,Data Engineer,1,10,9
+E828,Ritvik Z. Fernandes,Marketing,Social Media Manager,0,9,8
+E829,Zoya A. Sharma,IT & Security,Cybersecurity Analyst,12,8,7
+E830,Sana B. Das,Data & Analytics,Data Engineer,11,7,6
+E831,Chirag C. Bansal,Marketing,Campaign Manager,10,6,5
+E832,Kavya D. Arora,IT & Security,IT Manager,9,5,4
+E833,Neil E. Chawla,Design,UI Designer,8,4,3
+E834,Ramesh F. Reddy,Finance,Accountant,7,3,2
+E835,Madhav G. Menon,Legal & Compliance,Contract Specialist,6,2,1
+E836,Vivaan H. Yadav,Procurement,Procurement Executive,5,1,0
+E837,Krishna I. Fernandes,Human Resources,Payroll Executive,4,0,15
+E838,Pari J. Sharma,Operations,Operations Executive,3,10,14
+E839,Dhruv K. Das,Procurement,Procurement Manager,2,9,13
+E840,Harsh L. Bansal,Human Resources,Recruiter,1,8,12
+E841,Pihu M. Shetty,Operations,Supply Chain Associate,0,7,11
+E842,Ritvik N. Qureshi,Research & Development,Research Analyst,12,6,10
+E843,Aisha O. Singh,Engineering,Backend Developer,11,5,9
+E844,Aarohi P. Agarwal,Customer Support,Support Executive,10,4,8
+E845,Akash Q. Ghosh,Administration,Reception Executive,9,3,7
+E846,Aditi R. Thomas,Quality Assurance,Test Engineer,8,2,6
+E847,Bhavna S. Tiwari,Sales,Regional Sales Executive,7,1,5
+E848,Pratik T. Mishra,Administration,Admin Coordinator,6,0,4
+E849,Roshni U. Bansal,Quality Assurance,QA Analyst,5,10,3
+E850,Aarav V. Shetty,Sales,Key Account Manager,4,9,2

@@ -1,0 +1,2 @@
+request_id,employee_id,employee_name,leave_type,start_date,end_date,days,reason,status,submitted_on
+1,E101,Aarav A. Sharma,Casual,2026-08-12,2026-08-15,4,casual hai,Pending,2026-11-02 18:50
